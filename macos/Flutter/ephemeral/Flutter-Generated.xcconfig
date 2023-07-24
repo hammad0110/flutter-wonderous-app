@@ -2,10 +2,12 @@
 FLUTTER_ROOT=/Users/hammadkhan/Documents/flutterdev/flutter
 FLUTTER_APPLICATION_PATH=/Users/hammadkhan/Documents/GitHub/flutter-wonderous-app
 COCOAPODS_PARALLEL_CODE_SIGN=true
+FLUTTER_TARGET=/Users/hammadkhan/Documents/GitHub/flutter-wonderous-app/lib/main.dart
 FLUTTER_BUILD_DIR=build
 FLUTTER_BUILD_NAME=2.0.14
 FLUTTER_BUILD_NUMBER=3
+DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ==,RkxVVFRFUl9XRUJfQ0FOVkFTS0lUX1VSTD1odHRwczovL3d3dy5nc3RhdGljLmNvbS9mbHV0dGVyLWNhbnZhc2tpdC9iMzE0YTI5ODMwZjgwOWNkOWJjZTMzOWY0YjBlNTBjYzUzYzE2MmE4Lw==
 DART_OBFUSCATION=false
 TRACK_WIDGET_CREATION=true
 TREE_SHAKE_ICONS=false
-PACKAGE_CONFIG=.dart_tool/package_config.json
+PACKAGE_CONFIG=/Users/hammadkhan/Documents/GitHub/flutter-wonderous-app/.dart_tool/package_config.json
